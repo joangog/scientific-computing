@@ -1,2 +1,2 @@
 # scientific-computing
-Playing with tensors in MATLAB using scientific computing fundamentals
+Scientific Computing exercises with tensors in MATLAB

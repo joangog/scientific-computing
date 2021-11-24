@@ -1,5 +1,4 @@
 function G = path_tensor(A,k)
-% Author : и . цыцоу , ал 1054388 , Date : 16/2/2021
 
 G(:,:,1) = A;
 

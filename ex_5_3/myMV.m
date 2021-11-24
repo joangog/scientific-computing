@@ -1,5 +1,4 @@
 function Ax = myMV(z)
-% Author : и . цыцоу , ал 1054388 , Date : 18/2/2021
 
 global w;
 N = sqrt(length(z));  %block size

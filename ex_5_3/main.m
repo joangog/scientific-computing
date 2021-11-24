@@ -1,5 +1,3 @@
-% Author : и . цыцоу , ал 1054388 , Date : 18/2/2021
-
 % main for exercise 5_3
 
 global w;

@@ -1,5 +1,4 @@
 function P = band_stats(mxid,p)
-% Author : и . цыцоу , ал 1054388 , Date : 15/2/2021
 
 % if input is integer scalar (e.x 1497)
 % or char array (e.x. 'Rajat/rajat04' not "Rajat/rajat04")

@@ -1,5 +1,3 @@
-% Author : и . цыцоу , ал 1054388 , Date : 16/2/2021
-
 % main for exercise 5_1
 
 % parameters

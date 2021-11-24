@@ -1,5 +1,4 @@
 function [val,col_idx,row_blk] = sp_mx2bcrs(A,nb)
-% Author : и . цыцоу , ал 1054388 , Date : 20/2/2021
 
 if( ~issparse(A) || size(A,1)~=size(A,2) )
     error("Error: Invalid input. First parameter must be sparse, square matrix.")

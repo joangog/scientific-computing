@@ -1,6 +1,4 @@
 function [y]= spmv_bcrs(y,val,col_idx,row_blk,x)
-% Author : и . цыцоу , ал 1054388 , Date : 21/2/2021
-
 nd = length(row_blk);
 nb = size(val,1);
 

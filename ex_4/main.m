@@ -1,5 +1,3 @@
-% Author : и . цыцоу , ал 1054388 , Date : 15/2/2021
-
 % main for exercise 4
 
 % inputs matrices for function
